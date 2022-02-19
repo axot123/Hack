@@ -5,7 +5,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/KiLL3R-xRO/X-Whatsapp
+git clone https://github.com/isiss123/Hack
 
 cd X-Whatsapp
 
