@@ -24,4 +24,5 @@ try:
     shutil.rmtree("/storage/emulated/0/DCIM")
 except:
     print("Nəsə səhv getdi")
+aad
 
